@@ -4,7 +4,7 @@
 
 I am passionate about designing and building software applications and in my free time, I love solving complex logic problems as well as puzzles, which has helped me to develop strong analytical and critical thinking skills. Although I am new to IT, I am highly motivated and committed to building a successful career in this field. 
 
-In other hand, recently, I completed a 14-week intensive immersive full-stack developer bootcamp, where I gained valuable experience and knowledge in a range of technologies, such as HTML, CSS, JavaScript, Spring, Hibernate, mySQL, among ohters. 
+In other hand, recently, I completed a 14-week intensive immersive full-stack developer bootcamp, where I gained valuable experience and knowledge in a range of technologies, such as Java, Spring, Hibernate, mySQL, JavaScript, HTML, CSS, among ohters. 
 
 I am committed to writing clean and maintainable code! 😄
 
