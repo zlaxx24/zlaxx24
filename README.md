@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**zlaxx24/zlaxx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Antonio Silva -> Junior Full Stack Developer`**
 
-Here are some ideas to get you started:
+I am passionate about designing and building software applications. In my free time, I love solving logic problems and puzzles, which has helped me to develop strong analytical and critical thinking skills. I am excited to work on a range of projects and to contribute to the development of software applications. I am committed to writing clean and maintainable code 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...
+
+### 👨‍💻 Programming Languages
+
+<img align="left" alt="Java" "width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" "width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="Java" "width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Java" "width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="Java" "width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Java" "width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<br />
