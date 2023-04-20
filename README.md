@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hi 👋, I'm António Silva</h1>
 <h3 align="left">A passionate junior Full Stack developer from Portugal</h3>
 
