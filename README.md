@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm António Silva</h2>
 
-**`A passionate junior Full Stack developer from Portugal`**
+**`A junior Full Stack developer from Portugal`**
 
 
 I am passionate about designing and building software applications and in my free time, I love solving complex logic problems as well as puzzles, which has helped me to develop strong analytical and critical thinking skills. Although I am new to IT, I am highly motivated and committed to building a successful career in this field. 
