@@ -1,25 +1,12 @@
-<h2 align="left">Hi 👋, I'm António Silva</h2>
 
-**`A junior Full Stack developer from Portugal`**
+## 💫 About Me:
+Hi 👋, I'm António Silva, a junior Full Stack developer from Portugal
+<br><br>I am passionate about designing and building software applications and in my free time, I love solving complex logic problems as well as puzzles, which has helped me to develop strong analytical and critical thinking skills. Although I am new to IT, I am highly motivated and committed to building a successful career in this field.<br><br>On another hand, recently, I completed a 14-week intensive immersive Full Stack developer bootcamp, where I gained valuable experience and knowledge in a range of technologies, such as Java, Spring, Hibernate, mySQL, JavaScript, HTML, CSS, among others.<br><br>I am committed to writing clean and maintainable code! 😄
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zlaxx24#5350) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniosilva24) 
 
-I am passionate about designing and building software applications and in my free time, I love solving complex logic problems as well as puzzles, which has helped me to develop strong analytical and critical thinking skills. Although I am new to IT, I am highly motivated and committed to building a successful career in this field. 
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-In other hand, recently, I completed a 14-week intensive immersive Full Stack developer bootcamp, where I gained valuable experience and knowledge in a range of technologies, such as Java, Spring, Hibernate, mySQL, JavaScript, HTML, CSS, among others. 
-
-I am committed to write clean and maintainable code! 😄
-
-## Programming Languages 👨‍💻
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<br><br />
-
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/antoniosilva24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniosilva24" height="30px" width="30px" /></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=zlaxx24&icon=2&color=1)](https://visitcount.itsvg.in)
